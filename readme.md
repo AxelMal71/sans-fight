@@ -2,6 +2,7 @@
 This project is a clone of the sans fight from [Undertale](http://undertale.com/).
 It was made with [Construct 2](https://www.scirra.com/construct2).
 You can play it at [this mirror of the original link](https://axelmal71.github.io/sans-fight).
+The original link is right [here](https://jcw87.github.io/c2-sans-fight), although it might be blocked if you're trying to play it at school.
 
 NOW AVAILABLE! [Custom attacks guide](Documentation/README.MD)
 -----------------------------------------------------
